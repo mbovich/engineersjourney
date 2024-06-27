@@ -1,0 +1,1497 @@
+{
+  "roles": [
+    {
+      "id": "UX1",
+      "Level": "1",
+      "Type": "Individual Contributor (IC)",
+      "Name": "User Experience Level 1",
+      "competencies": [
+        {"Empathy": "Novice"}             ,
+        {"Transparency": "Novice"}        ,
+        {"Team-First": "Novice"}          ,
+        {"Curiosity": "Novice"}           ,
+        {"Influence": "Novice"}           ,
+        {"Process and Delivery": "Novice"},
+        {"Product Mindedness": "Novice"}  ,
+        {"Strategy and Scope": "Novice"}  ,
+        {"Systems and Design": ""}        ,
+        {"Technology": ""}                ,
+        {"Leadership": ""}                ,
+        {"Skills Shape": "Novice"}        ,
+        {"User Experience": "Novice"}
+      ]
+    },
+    {
+      "id": "UX2",
+      "Level": "2",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Apprentice"}             ,
+        {"Transparency": "Apprentice"}        ,
+        {"Team-First": "Apprentice"}          ,
+        {"Curiosity": "Apprentice"}           ,
+        {"Influence": "Apprentice"}           ,
+        {"Process and Delivery": "Apprentice"},
+        {"Product Mindedness": "Apprentice"}  ,
+        {"Strategy and Scope": "Apprentice"}  ,
+        {"Systems and Design": "Novice"}      ,
+        {"Technology": ""}                    ,
+        {"Leadership": ""}                    ,
+        {"Skills Shape": "Apprentice"}        ,
+        {"User Experience": "Apprentice"}
+      ]
+    },
+    {
+      "id": "UX3",
+      "Level": "3",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Practitioner"}             ,
+        {"Transparency": "Practitioner"}        ,
+        {"Team-First": "Practitioner"}          ,
+        {"Curiosity": "Practitioner"}           ,
+        {"Influence": "Apprentice"}             ,
+        {"Process and Delivery": "Practitioner"},
+        {"Product Mindedness": "Practitioner"}  ,
+        {"Strategy and Scope": "Practitioner"}  ,
+        {"Systems and Design": "Novice"}        ,
+        {"Technology": ""}                      ,
+        {"Leadership": ""}                      ,
+        {"Skills Shape": "Practitioner"}        ,
+        {"User Experience": "Practitioner"}
+      ]
+    },
+    {
+      "id": "PO1",
+      "Level": "",
+      "Type": "",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Novice"}                 ,
+        {"Transparency": "Novice"}            ,
+        {"Team-First": "Novice"}              ,
+        {"Curiosity": "Novice"}               ,
+        {"Influence": "Novice"}               ,
+        {"Process and Delivery": "Apprentice"},
+        {"Product Mindedness": "Practitioner"},
+        {"Strategy and Scope": "Practitioner"},
+        {"Systems and Design": ""}            ,
+        {"Technology": ""}                    ,
+        {"Leadership": ""}                    ,
+        {"Skills Shape": "Novice"}            ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "PO2",
+      "Level": "3",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Apprentice"}               ,
+        {"Transparency": "Apprentice"}          ,
+        {"Team-First": "Apprentice"}            ,
+        {"Curiosity": "Apprentice"}             ,
+        {"Influence": "Apprentice"}             ,
+        {"Process and Delivery": "Practitioner"},
+        {"Product Mindedness": "Journeyman"}    ,
+        {"Strategy and Scope": "Practitioner"}  ,
+        {"Systems and Design": "Novice"}        ,
+        {"Technology": ""}                      ,
+        {"Leadership": "Apprentice"}            ,
+        {"Skills Shape": "Apprentice"}          ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "PO3",
+      "Level": "4",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Practitioner"}           ,
+        {"Transparency": "Practitioner"}      ,
+        {"Team-First": "Practitioner"}        ,
+        {"Curiosity": "Practitioner"}         ,
+        {"Influence": "Apprentice"}           ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Expert"}      ,
+        {"Strategy and Scope": "Journeyman"}  ,
+        {"Systems and Design": "Apprentice"}  ,
+        {"Technology": ""}                    ,
+        {"Leadership": "Apprentice"}          ,
+        {"Skills Shape": "Practitioner"}      ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "QA1",
+      "Level": "1",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Novice"}             ,
+        {"Transparency": "Novice"}        ,
+        {"Team-First": "Novice"}          ,
+        {"Curiosity": "Novice"}           ,
+        {"Influence": "Novice"}           ,
+        {"Process and Delivery": "Novice"},
+        {"Product Mindedness": "Novice"}  ,
+        {"Strategy and Scope": "Novice"}  ,
+        {"Systems and Design": "Novice"}  ,
+        {"Technology": ""}                ,
+        {"Leadership": ""}                ,
+        {"Skills Shape": "Novice"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "QA2",
+      "Level": "2",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Apprentice"}             ,
+        {"Transparency": "Apprentice"}        ,
+        {"Team-First": "Apprentice"}          ,
+        {"Curiosity": "Apprentice"}           ,
+        {"Influence": "Apprentice"}           ,
+        {"Process and Delivery": "Apprentice"},
+        {"Product Mindedness": "Apprentice"}  ,
+        {"Strategy and Scope": "Apprentice"}  ,
+        {"Systems and Design": "Apprentice"}  ,
+        {"Technology": "Novice"}              ,
+        {"Leadership": ""}                    ,
+        {"Skills Shape": "Apprentice"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "QA3",
+      "Level": "3",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Practitioner"}             ,
+        {"Transparency": "Practitioner"}        ,
+        {"Team-First": "Practitioner"}          ,
+        {"Curiosity": "Practitioner"}           ,
+        {"Influence": "Apprentice"}             ,
+        {"Process and Delivery": "Practitioner"},
+        {"Product Mindedness": "Practitioner"}  ,
+        {"Strategy and Scope": "Practitioner"}  ,
+        {"Systems and Design": "Practitioner"}  ,
+        {"Technology": "Apprentice"}            ,
+        {"Leadership": ""}                      ,
+        {"Skills Shape": "Practitioner"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE1",
+      "Level": "1",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Novice"}             ,
+        {"Transparency": "Novice"}        ,
+        {"Team-First": "Novice"}          ,
+        {"Curiosity": "Novice"}           ,
+        {"Influence": "Novice"}           ,
+        {"Process and Delivery": "Novice"},
+        {"Product Mindedness": "Novice"}  ,
+        {"Strategy and Scope": "Novice"}  ,
+        {"Systems and Design": "Novice"}  ,
+        {"Technology": "Novice"}          ,
+        {"Leadership": ""}                ,
+        {"Skills Shape": "Novice"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE2",
+      "Level": "2",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Apprentice"}             ,
+        {"Transparency": "Apprentice"}        ,
+        {"Team-First": "Apprentice"}          ,
+        {"Curiosity": "Apprentice"}           ,
+        {"Influence": "Apprentice"}           ,
+        {"Process and Delivery": "Apprentice"},
+        {"Product Mindedness": "Apprentice"}  ,
+        {"Strategy and Scope": "Apprentice"}  ,
+        {"Systems and Design": "Apprentice"}  ,
+        {"Technology": "Apprentice"}          ,
+        {"Leadership": ""}                    ,
+        {"Skills Shape": "Apprentice"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE3",
+      "Level": "3",
+      "Type": "Individual Contributor (IC)",
+      "Name": "",
+      "competencies": [
+        {"Empathy": "Practitioner"}             ,
+        {"Transparency": "Practitioner"}        ,
+        {"Team-First": "Practitioner"}          ,
+        {"Curiosity": "Practitioner"}           ,
+        {"Influence": "Apprentice"}             ,
+        {"Process and Delivery": "Practitioner"},
+        {"Product Mindedness": "Practitioner"}  ,
+        {"Strategy and Scope": "Practitioner"}  ,
+        {"Systems and Design": "Practitioner"}  ,
+        {"Technology": "Practitioner"}          ,
+        {"Leadership": ""}                      ,
+        {"Skills Shape": "Practitioner"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE4",
+      "Level": "4",
+      "Type": "Individual Contributor (IC)",
+      "Name": "Lead Engineer",
+      "competencies": [
+        {"Empathy": "Journeyman"}               ,
+        {"Transparency": "Practitioner"}        ,
+        {"Team-First": "Practitioner"}          ,
+        {"Curiosity": "Practitioner"}           ,
+        {"Influence": "Apprentice"}             ,
+        {"Process and Delivery": "Practitioner"},
+        {"Product Mindedness": "Journeyman"}    ,
+        {"Strategy and Scope": "Practitioner"}  ,
+        {"Systems and Design": "Practitioner"}  ,
+        {"Technology": "Practitioner"}          ,
+        {"Leadership": "Apprentice"}            ,
+        {"Skills Shape": "Practitioner"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE5",
+      "Level": "5",
+      "Type": "Individual Contributor (IC)",
+      "Name": "Principal Engineer",
+      "competencies": [
+        {"Empathy": "Journeyman"}             ,
+        {"Transparency": "Journeyman"}        ,
+        {"Team-First": "Practitioner"}        ,
+        {"Curiosity": "Practitioner"}         ,
+        {"Influence": "Practitioner"}         ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Journeyman"}  ,
+        {"Strategy and Scope": "Journeyman"}  ,
+        {"Systems and Design": "Expert"}      ,
+        {"Technology": "Practitioner"}        ,
+        {"Leadership": "Practitioner"}        ,
+        {"Skills Shape": "Practitioner"}      ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE6",
+      "Level": "6",
+      "Type": "Individual Contributor (IC)",
+      "Name": "Distinguished",
+      "competencies": [
+        {"Empathy": "Expert"}                 ,
+        {"Transparency": "Journeyman"}        ,
+        {"Team-First": "Practitioner"}        ,
+        {"Curiosity": "Practitioner"}         ,
+        {"Influence": "Journeyman"}           ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Journeyman"}  ,
+        {"Strategy and Scope": "Expert"}      ,
+        {"Systems and Design": "Expert"}      ,
+        {"Technology": "Journeyman"}          ,
+        {"Leadership": ""}                    ,
+        {"Skills Shape": "Journeyman"}        ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "SE7",
+      "Level": "7",
+      "Type": "Individual Contributor (IC)",
+      "Name": "Fellow",
+      "competencies": [
+        {"Empathy": "Expert"}                 ,
+        {"Transparency": "Expert"}            ,
+        {"Team-First": "Practitioner"}        ,
+        {"Curiosity": "Practitioner"}         ,
+        {"Influence": "Expert"}               ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Journeyman"}  ,
+        {"Strategy and Scope": "Expert"}      ,
+        {"Systems and Design": "Expert"}      ,
+        {"Technology": "Expert"}              ,
+        {"Leadership": ""}                    ,
+        {"Skills Shape": "Expert"}            ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "EM1",
+      "Level": "4",
+      "Type": "Manager",
+      "Name": "Manager",
+      "competencies": [
+        {"Empathy": "Journeyman"}             ,
+        {"Transparency": "Practitioner"}      ,
+        {"Team-First": "Journeyman"}          ,
+        {"Curiosity": "Journeyman"}           ,
+        {"Influence": "Apprentice"}           ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Journeyman"}  ,
+        {"Strategy and Scope": "Practitioner"},
+        {"Systems and Design": "Practitioner"},
+        {"Technology": "Practitioner"}        ,
+        {"Leadership": "Novice"}              ,
+        {"Skills Shape": "Practitioner"}      ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "EM2",
+      "Level": "5",
+      "Type": "Manager",
+      "Name": "Senior Engineering Manager",
+      "competencies": [
+        {"Empathy": "Journeyman"}             ,
+        {"Transparency": "Journeyman"}        ,
+        {"Team-First": "Journeyman"}          ,
+        {"Curiosity": "Journeyman"}           ,
+        {"Influence": "Practitioner"}         ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Journeyman"}  ,
+        {"Strategy and Scope": "Practitioner"},
+        {"Systems and Design": "Journeyman"}  ,
+        {"Technology": "Practitioner"}        ,
+        {"Leadership": "Apprentice"}          ,
+        {"Skills Shape": "Practitioner"}      ,
+        {"User Experience": ""}
+      ]
+    },
+    {
+      "id": "Director",
+      "Level": "6",
+      "Type": "Manager",
+      "Name": "Technology Director",
+      "competencies": [
+        {"Empathy": "Expert"}                 ,
+        {"Transparency": "Expert"}            ,
+        {"Team-First": "Expert"}              ,
+        {"Curiosity": "Expert"}               ,
+        {"Influence": "Practitioner"}         ,
+        {"Process and Delivery": "Journeyman"},
+        {"Product Mindedness": "Expert"}      ,
+        {"Strategy and Scope": "Journeyman"}  ,
+        {"Systems and Design": "Expert"}      ,
+        {"Technology": "Practitioner"}        ,
+        {"Leadership": "Practitioner"}        ,
+        {"Skills Shape": "Journeyman"}        ,
+        {"User Experience": ""}
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "name": "Empathy",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Participate",
+          "description": "You demonstrate and support an empathetic perspective",
+          "supportingBehaviors": [
+            "You support an environment where your team members feel comfortable and safe to have uncomfortable conversations.",
+            "You are open to receiving feedback from your team members and Seek to understand their perspective.",
+            "You are open to giving feedback to your team members. ",
+            "Able to identify different types of users and understand their objectives using our system. ",
+            "You actively participate in cross-team discussions",
+            "You use active listening to understand your peers.",
+            "You ask questions to gain information and better understanding.",
+            "You support the best idea, even if it differs from your own and jump in to help build the solution."
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Nurture",
+          "description": "NURTURE:You help build an environment that fosters empathy within your team and product.",
+          "supportingBehaviors": [
+            "You create an environment where others feel comfortable and safe.",
+            "Help others speak up and have their voice heard.",
+            "Identify when a space is not safe or voices are not able to be heard.",
+            "Use customer data to inform design analysis and tradeoffs.",
+            "You share ideas and solutions for team consideration.",
+            "You ask questions to understand the pros and cons of an idea.",
+            "You jump into help craft the solution, in the area most useful to your team."
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Informed",
+          "description": "INFORMED:You seek out new information and data to improve your empathy.",
+          "supportingBehaviors": [
+            "Invite other perspectives into discussions",
+            "You inspire others to share their ideas",
+            "Facilitate retros or difficult conversations",
+            "Definition of success includes customer ability to achieve their objectives. ",
+            "Actively build feedback loops into designs and optimize delivery to shorten the feedback cycles. ",
+            "You often facilitate cross-team discussions, sharing your ideas and solutions and encouraging participation from others.",
+            "You can guide the discussion of pros and cons for various solutions and help to champion the best idea.",
+            "You help the team self-organize to build the solution."
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Expand",
+          "description": "EXPAND:You drive activities and understanding across teams and the company.",
+          "supportingBehaviors": [
+            "You create spaces where employees across departments can openly and safely speak at a deeper and broader level. ",
+            "You actively participate in conversations with customers (or proxies) and work to improve customer relationships",
+            "You initiate and drive the collaboration across two or more teams.",
+            "You are able to draw out the ideas of others and help them to evaluate pros and cons."
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Accelerate",
+          "description": "ACCELERATE:You seek ways to accelerate the spread and use of empathy at Denim.",
+          "supportingBehaviors": [
+            "You coach others in creating safe spaces where others feel safe and valued. You are able to prevent, or transition, an unsafe space into one which all voices are heard and valued.",
+            "Organize or facilitate opportunities to explore and celebrate diversity",
+            "Mentor others in embracing diverse perspectives",
+            "Able to anticipate customer needs and concerns during solution discussions and adapt plans to address.",
+            "You help the teams to self-organize to build the solution and seek ways to ensure the teams are working in an open and communicative way towards the shared goals."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transparency",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Team",
+          "description": "You are comfortable being transparent and vulnerable with your TEAM. You understand the value of feedback,.",
+          "supportingBehaviors": [
+            "Regularly communicates the status of their work",
+            "You speak up when you have an idea",
+            "Default to communication in public channels.",
+            "Effectively communicates when unable to attend expected events or complete a task. ",
+            "You seek help from teammates when challenges emerge.",
+            "You actively listen, respond appropriately, seek clarity, and understand feedback is intended to help improve.",
+            "You actively listen, respond appropriately, and solicit feedback. ",
+            "Understand the importance of feedback",
+            "Can provide feedback that includes actions for improvement",
+            "You praise others in public, critique in private",
+            "You challenge ideas, not people",
+            "Actively participate in team feedback and retros",
+            "You seek clarity in communication from others by Asking questions and Following up appropriately when uncertain",
+            "You are comfortable being transparent and vulnerable with your TEAM."
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Manager",
+          "description": "You are comfortable being transparent and vulnerable with your manager.candid with status. You are candid with status updates and have a solid ability to provide constructive and reinforcing feedback.",
+          "supportingBehaviors": [
+            "Recognises and communicates conflicting priorities and delivery expectations",
+            "You communicate in a way that is open and honest while focusing on a solution.",
+            "Able to recognise when they are having difficulties before it become an issue",
+            "Provides information so that other people can help",
+            "You admit when you are wrong",
+            "Actively seeks the views of other team members to help guide work",
+            "You are able to recognize when a team member needs direction and can provide balanced feedback.",
+            "Able to approach the issue with the intent to understand, focusing on facts over opinions",
+            "Delivers both positive and corrective feedback",
+            "Can navigate a conversation with a team member that focuses on the opportunity and desired outcomes",
+            "Understand the difference between feedback and providing an alternative solution",
+            "You convey information to your team members in a clear, concise, and effective manner.",
+            "Provide facts over emotions",
+            "Ensure the message is understood",
+            "You understand what your expectations are ask for clarification",
+            "You are comfortable being transparent and vulnerable with your manager."
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "X-Team",
+          "description": "You are comfortable being transparent and vulnerable with senior managers (e.g. Director) and ACROSS TEAM BOUNDARIES.. You are candid about mistakes and can communicate recovery plans.",
+          "supportingBehaviors": [
+            "You are able to communicate your team's failures and successes with appropriate context",
+            "You know when to commit and when to ask for information",
+            "You are able to know when to say no, respectfully and with reason",
+            "Proactively receive feedback on ideas in development and throughout efforts.",
+            "You are able to recognize when a team needs direction and can provide balanced feedback.",
+            "You provide feedback to your manager.",
+            "Is bold enough to offer feedback which could alter the team's direction",
+            "Provides resources to support recommendations",
+            "Follows through with commitments of support",
+            "Can navigate a conversation with a team that focuses on the opportunity and desired outcomes",
+            "Able to provide feedback without attempting to solve the person problem",
+            "You ask questions and convey information to other teams and stakeholders in a clear, concise, and effective manner.",
+            "Summarizes information into usable chunks",
+            "Able to effectively share communication between teams",
+            "Asks clarifying questions",
+            "You are comfortable being transparent and vulnerable with senior managers (e.g. Director) and ACROSS TEAM BOUNDARIES.."
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "X-Department",
+          "description": "You are comfortable being transparent and vulnerable with your VP and SENIOR LEADERS IN OTHER DEPARTMENTS..proactive with updates and effectively communicate risk and mitigation.",
+          "supportingBehaviors": [
+            "You proactively acknowledge mistakes and work to increase confidence with partners and stakeholders",
+            "You are able to recognize when a cross-team effort needs direction and can provide balanced feedback.",
+            "Is bold enough to offer feedback which influences the company's objectives or key results",
+            "Encourages teams to seek feedback and understand feedback from others outside of team.",
+            "Can navigate a conversation with multiple teams that focuses on the opportunity and desired outcomes",
+            "Identifies important talking points",
+            "Able to effectively share communication throughout the organization",
+            "Communicates team/work's status upwards to a Principal or Technical Director",
+            "You help to communicate company goals throughout the organizationto",
+            "You are comfortable being transparent and vulnerable with your VP and SENIOR LEADERS IN OTHER DEPARTMENTS.."
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Company",
+          "description": "You are comfortable being transparent and vulnerable with EXECUTIVES and the COMPANY at large.",
+          "supportingBehaviors": [
+            "You can identify risk and proactively communicate potential impact and mitigation plans. ",
+            "You are able to provide feedback to an executive.",
+            "You ask questions, and convey information to executives, customers, and our community in a clear, concise, and effective manner.",
+            "You effectively communicate technical concepts in a way that non-technical individuals can understand",
+            "Adapts communication method / style to the audience",
+            "Asks questions that uncover hidden goals and needs ",
+            "You are comfortable being transparent and vulnerable with EXECUTIVES and the COMPANY at large."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Team-First",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Learn",
+          "description": "Able to work with and learn from others on the team. Actively seek out help and new information.",
+          "supportingBehaviors": [
+            "Asks for help or clarification on tasks when required",
+            "Regularly reads peers' PRs and asks questions in order to learn",
+            "Receives feedback and acts upon it,",
+            "You actively participate in team discussions",
+            "You use active listening to understand your peers.",
+            "You ask questions to gain information and better understanding.",
+            "You support the best idea, even if it differs from your own and jump in to help build the solution.",
+            "You are able to identify the source of conflict and work through and resolve the conflict with another person, with a moderator",
+            "You are able to propose solutions.",
+            "You can listen to others and remain objective. ",
+            "You know when a conflict has formed and seek to address the issue, bringing in a manager quickly if needed.",
+            "You participate in interview panels both asking questions and listening to the candidate's responses with an open mind.",
+            "Ask questions to reveal the potential team fit",
+            "Ask skill questions to help gauge the candidate's proficiency",
+            "Provide feedback on the candidate at the debrief",
+            "You seek out, and are receptive to, mentorship and coaching in areas you are not strong in. ",
+            "Work with others to help improve yourself",
+            "When asked, you provide help to others"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Support",
+          "description": "SUPPORT :Able to support other members on the team and in their work.",
+          "supportingBehaviors": [
+            "Encourages others to deliver high quality code and solutions,",
+            "Shares knowledge with peers informally,",
+            "Shares knowledge with others internally,",
+            "Provides feedback on peer’s work,",
+            "Regularly gives timely actionable feedback to colleagues,",
+            "You actively participate in team discussions and begin to share ideas and solutions for team consideration.",
+            "You ask questions to understand the pros and cons of an idea and support the best idea.",
+            "You jump into help craft the solution, in the area most useful to your team. ",
+            "You are able to work through and resolve conflict with another person in a positive and healthy manner.",
+            "You are objective in situations that involve personal conflicts of interest.",
+            "You try multiple methods of conflict resolution on your own before bringing in others.",
+            "You are able to tailor questions to the candidate and the goals of the interview. ",
+            "Ask both job skill and team fit questions",
+            "Able to defend the hire / not hire decision from your perspective",
+            "You understand what it means to be a coach and mentor, and the value of a good framework of coaching and mentoring.",
+            "Coach and mentor others often.",
+            "Help others see the importance of coaching and mentoring"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Mentor",
+          "description": "MENTOR: Actively mentor junior members and help steer their development as engineers.",
+          "supportingBehaviors": [
+            "Contributes to the personal development of more junior people,",
+            "Actively encourages or shapes the personal development of others,",
+            "Identifies knowledge gaps within the team and gives training to address gaps,",
+            "Helps resolve disagreements healthily,",
+            "You often facilitate team discussions, sharing your ideas and solutions and encouraging participation from others.",
+            "You can guide the discussion of pros and cons of various solutions and help to champion the best idea.",
+            "You help the team self-organize to build the solution. You identify conflict as it is occurring with others on your team and step in as mediator. ",
+            "You work objectively with others to resolve the issue quickly.",
+            "You are able to facilitate a candid discussion ensuring the participants are not cruel",
+            "You are able to lead the interview panel, ensuring all participants are prepared and given the opportunity to ask questions. You are able to represent at recruiting events.",
+            "Demonstrate the value of to the interviewee",
+            "You ensure all key components of the process are covered",
+            "Ask follow up questions to candidate responses to probe deeper.",
+            "Able to identify when a candidate is not admitting when they don't know something (BS detector)",
+            "You advocate for mentoring and coaching frameworks or initiatives within the department.",
+            "Evangelize department level events, lighting talks, brown bags to all department members who could benefit",
+            "Suggest or give coaching and mentoring events"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Manage",
+          "description": "MANAGE:Direct the actions of one or more indivudlas",
+          "supportingBehaviors": [
+            "Is accountable for the delivery of one or more teams (individually or jointly with other people),",
+            "You help to initiate and drive the collaboration within your team.",
+            "You are able to draw out the ideas of others and help them to evaluate pros and cons.",
+            "You help the team to self-organize to build the solution and seek ways to ensure each team member participates in all parts of the solution as appropriate. ",
+            "You help to promote achievements the team has earned.",
+            "You actively mediate conflict between yourself and others, other people on their team, and those outside the team.",
+            "You display the ability to identify and defuse conflicts before they occur.",
+            "You Identify volatile situations early and quickly work with all parties involved to diffuse the situation and get everyone on the same page.",
+            "You are actively thinking about potential candidates that would move the culture forward. ",
+            "Attend recruiting events and promote ",
+            "Attend relevant skill or business domain meetups to promote and make contacts.",
+            "Refer good candidates within your network",
+            "You create and/or support mentorship programs either within the company or outside of it.",
+            "Evangelize the importance of having and using mentors",
+            "Be a mentor, and support other mentors"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Lead",
+          "description": "LEAD:Assume (explicitly or implicitly) accountability for the current and future outcomes of a team+",
+          "supportingBehaviors": [
+            "Is accountable for the delivery of one or more departments (individually or jointly with other people),"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Curiosity",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Internal",
+          "description": "Develop an appreciation for growth and development. Work with your manager to build a growth strategy.",
+          "supportingBehaviors": [
+            "You understand the importance of self growth both in your technical skills and as a professional",
+            "Advocate for your own growth and development",
+            "Work with your manager or mentor to develop a growth plan",
+            "You are humble and seek to identify gaps in your skills and knowledge.",
+            "Seek help learning new application areas",
+            "Ask for feedback on your self"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "External",
+          "description": "Seeking out new knowledge from outside sources. Actively nurture your own growth. Begin to mentor and help others develop.",
+          "supportingBehaviors": [
+            "You are actively working on your personal growth through multiple paths. You are focused on areas of growth that provide value to your team. ",
+            "Executing on your personal growth plan",
+            "Attend outside events to broaden your perspective",
+            "You help others on your team identify their strengths and areas of growth. You help others decide what growth they should focus on",
+            "Provide a safe place to help others",
+            "Provides feedback to help others"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Company",
+          "description": "Expand and share your knowledge base. Investigate and deepen knowledge of department-level processes. Explore your own domain deeply.",
+          "supportingBehaviors": [
+            "You are actively working on your personal growth through multiple paths. You are focused on areas of growth that provide value to the department. ",
+            "Developing your personal growth plan",
+            "Seek out opportunities within the department that would stretch you. You help others within the department outside of your team identify their strengths and areas of growth.",
+            "Notice when people could use coaching or mentoring",
+            "Provide open information to other teams on ways to improve"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Industry",
+          "description": "Nurture the growth and curiosity of others across team boundaries. Explore company operations beyond your department. Expand and grow your industry knowledge.",
+          "supportingBehaviors": [
+            "You are actively working on your personal growth through multiple paths. You are focused on areas of growth that provide value to the company. ",
+            "Developing your personal growth plan",
+            "Seek out opportunities within the company that would stretch you. ",
+            "You identify skill gaps within the company and help facilitate company-wide learning initiatives.",
+            "Understand the skill needs across teams",
+            "Identify potential pairing of mentors and mentees"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Novel",
+          "description": "Identify and pursue opportunities to learn and develop expertise beyond the normal company operations. Seek out novel and innovative ways of operating.",
+          "supportingBehaviors": [""]
+        }
+      ]
+    },
+    {
+      "name": "Influence",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Self",
+          "description": "Manages own stream of work.",
+          "supportingBehaviors": [
+            "Prioritizes own work. ",
+            "Works with own team",
+            "Tackles simple technical issues",
+            "Participate in team ceremonies",
+            "Is engaged with their own personal development and follows through on agreed actions for this,",
+            "Passive participant in communities of practice (e.g., chapters, lightning talks,, etc.).",
+            "Attend Events",
+            "You are aware of the advantage of being involved in your technical community. You act on invitations others send to you.",
+            "Attending events",
+            "Sharing community outputs back into your team."
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Team",
+          "description": "TEAM:Participating in decisions that impact the team level.",
+          "supportingBehaviors": [
+            "Prioritises technical work for the team (usually with others). This should grow into prioritizing work that crosses team boundaries. ",
+            "Works with other teams, including some from regular partners (prod)",
+            "Tackles issues that may require cross team collaboration",
+            "Present to small groups, may include people from multiple teams",
+            "Mentors others on team",
+            "Buddy for new hires",
+            "You provide useful contributions back to your communities of practice). ",
+            "Contributes ideas and shares best practices",
+            "Presenting at lightning talks, chapters, etc. ",
+            "You identify external opportunities and make your team aware. This may include events, interesting articles, etc, that help connect the work to the larger community. ",
+            "Representing at events",
+            "Supporting the community and contributing through idea sharing and best practices"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Department",
+          "description": "DEPARTMENT : Participate in decisions with impact beyond your own team. This will often include best practices, design patterns, and tech choices.",
+          "supportingBehaviors": [
+            "Prioritises technical work for the Department (usually with others)",
+            "Works with teams from other depts (ops, sales, etc)",
+            "Regular representative of the team in eng cross-team discussions. ",
+            "Tackles complicated issues that require deeper collaboration with other eng teams and impact the department wide direction",
+            "Present at Dept level meetings or cross team meetings with director+ level representation from partners",
+            "Mentor people on other teams",
+            "You are viewed as a leader in one or more communities of practice, regularly contributing and mentoring others. ",
+            "Organizing lightning talks, brown bags, technical demos etc. ",
+            "Spreading chapter concepts to non-chapter audiences",
+            "Reaching out to others in the organization to build common interest in the adoption or use of a particular skill or practice",
+            "You are a regular participant with a growing presence. ",
+            "Regular engagement."
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Company",
+          "description": "Company: Regularly participate in decisions that impact the entire company. These may cross over boundaries into other functional areas.",
+          "supportingBehaviors": [
+            "Prioritises technical work for the Company (usually with others",
+            "Regular participant in cross-dept discussions",
+            "Tackles issues that require coordination of solutions across department boundaries",
+            "Present at All Hands",
+            "Mentor people in other departments",
+            "You look across the company to see where COP can be further leveraged for company wide initiatives and needs. You are able to share 's innovations outwards to the broader community. ",
+            "Organizing / leading / facilitating events",
+            "Member of cross-department guilds (e.g. adaptive learning guild)",
+            "Presents the adoption of a practice or process at meetup or conference session",
+            "You are viewed as a leader and evangelist in your local community, regularly contributing and mentoring others. ",
+            "Presenting at events such as meetups or conferences",
+            "Explaining technical concepts to non-technical audiences"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Industry/Community",
+          "description": "Industry/Community: Influential outside of the company. This can take different forms - speaking at conferences, popular blog or influencer channels, noted contributors to open source projects, external mentoring, etc.",
+          "supportingBehaviors": [
+            "Active in industry groups that set direction and standards",
+            "Work with peers from outside the company to resolve shared technical challenges. ",
+            "Tackle problems that affect the industry and/or multiple companies",
+            "Present at external events",
+            "Mentors outside of the company",
+            "Posts about the COP externally to build awareness and company brand equity. ",
+            "You are viewed as a leader and influencer in the national / global community, regularly contributing and mentoring others. ",
+            "Organizing / leading events",
+            "Influencing the larger community through different venues (conferences, blogs, meetups, social media, etc.)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Process and Delivery",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Follow",
+          "description": "Able to follow team processes and participate in ceremonies.",
+          "supportingBehaviors": [
+            "Assigned tasks and work to complete.",
+            "Uses continuous delivery or build pipelines for automation,",
+            "Maintains documentation on the systems they work on, making it easy for future engineers to interact with systems and code,",
+            "Regularly contributes openly to team meetings and encourages others to do so",
+            "Attends their team's meetings, and shares their views and opinions",
+            "Remembers to write more straightforward tickets and bug reports to track the work expected of them, perhaps with prompting and guidance,",
+            "Participates in the delivery process",
+            "You are able to deploy working features into production. ",
+            "Code check-ins",
+            "Pull requests",
+            "You follow and participate in the creation of team conventions and processes",
+            "Participates in the process of estimating and tasking out user stories",
+            "Follows the team's convention for checking each other's work (pairing, pull requests, code reviews, etc)",
+            "Delivers product to production following the team's repeatable process",
+            "You are able to provide solutions to tasks and know when to seek guidance.",
+            "Execute work items you sign up for",
+            "Ask for help when needed"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Facilitate",
+          "description": "FACILITATE:Comfortable with team processes and able to lead team ceremonies, not just participate.",
+          "supportingBehaviors": [
+            "Volunteer for tasks or problems that have been identified by others. Regularly and independently resolves problems bugs regardless of origin,",
+            "Facilitates productive discussions with clear outcomes,",
+            "Writes clear tickets, issues and bug reports that contain the necessary amount of detail to be picked up by other engineers,",
+            "You are able to manage roll-back processes and enhance the ci/cd pipeline.",
+            "Add new automated tests",
+            "Fix the repository when there is a conflict",
+            "Within your team, you identify the need the for conventions and processes. You also help facilitate the implementation of the conventions or processes.",
+            "Leads an effort to task out user stories",
+            "Holds the team accountable to following their convention for checking each other's work",
+            "Sets an example for following a repeatable process to deliver code to production",
+            "Conveys the importance of standards and processes to team members",
+            "You are delivering and executing on multiple efforts within your team either by doing the work, or coordinating the work done by others.",
+            "Ensures all parts of a new feature are delivered together",
+            "Pairs with others"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Question",
+          "description": "QUESTION:Understand the process well and can identify areas for improvement and/or inefficiencies, although you may not know how to improve things.",
+          "supportingBehaviors": [
+            "Able to proactively identify problems and opportunities that may require team attention. Can articulate the problem, the benefit, and clarify success criteria. Finds problems outside of immediate team and identifies ways to improve them,",
+            "You create ci/cd pipeline both on premises and in cloud based environments. You train the other team members in the ci/cd processes for the team. ",
+            "Add new application to the ci/cd process",
+            "Generate new artifacts to be consumed by others",
+            "Across the department, you identify and implement improvements to our conventions and processes. ",
+            "Identify opportunities to reduce the risk of adverse customer experiences during delivery and execution across the department",
+            "Identify improvements to how we more rapidly deliver value iteratively with the ability to fail fast and rollback, mitigating risk and adverse impact",
+            "You are delivering and executing on the efforts across multiple teams to ensure work is delivered and executed in a complete and effective manner.",
+            "Ensure that the cross team effort can deliver iteratively to reduce the impact of the inter-team dependencies",
+            "Ensure there is a common understanding between the teams regarding who is responsible for which pieces",
+            "Help the teams make progress toward value delivery even if dependent components are not ready yet for integration"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Improve",
+          "description": "IMPROVE:Actively identify ways to improve the process. Can clearly identify what better looks like and use metrics/data to assess progress.",
+          "supportingBehaviors": [
+            "Able to identify potential future problems or opportunities and mitigate them before they become a concern. This includes a solid understanding of extensibility and scalability balanced with a pragmatic approach that doesn't overbuild. It also requires a solid understanding of the business/customer needs",
+            "Improves delivery process and encourages others to do the same,",
+            "You are looking outside existing processes and tools for opportunities to improve / expand the deployment process. ",
+            "Automated creation and deletion of testing environments",
+            "Stays current with new technologies in the deployment arena",
+            "You understand industry trends then bring the right things, at the right times, into .",
+            "Use resources (blogs, books, training) to improved ways to delivery value",
+            "Pilot new delivery models on your team and present your findings to the organization",
+            "Identify opportunities to influence other teams in their adoption of new delivery models",
+            "You lead and coordinate the effort of multiple teams to ensure work is delivered and executed in a complete and effective manner. ",
+            "Understand across systems to know where [in the technology/which team] to best solve problems at a company level",
+            "Help the teams make progress toward value delivery, creating solutions to unblock dependent components needed for integration"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Shape",
+          "description": "SHAPE:Steer process improvements towards a desired future state. Able to course correct and adapt destination based on new learnings and emergent info.",
+          "supportingBehaviors": [
+            "Understand the company, business, and users at a deep level and are able to apply this knowledge to generate insights that anticipate the future market and technology direction. Able to identify and propose opportunities early enough to enable the company to be positioned to capture the opportunity."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product Mindedness",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Follow",
+          "description": "Follows the guidance of the product team and others on what is important and why,",
+          "supportingBehaviors": [
+            "Knows who their project's stakeholders are and references them where appropriate,",
+            "You are aware of the outcomes important for your team and utilize metrics to track progress towards those outcomes.",
+            "Describe how your team is measuring success",
+            "Surface progress against outcomes using key metrics",
+            "You review Jira board regularly",
+            "You are able to participate in discussions with or about users and stakeholders.",
+            "Able to identify your application users",
+            ""
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Orient (On Value)",
+          "description": "ORIENT (ON VALUE):Understand the value delivered by the team’s products and can speak on how different work impacts the key metrics. You understand the difference between novel and innovative.",
+          "supportingBehaviors": [
+            "Uses user research or data to inform decisions,",
+            "Leads on getting well defined tasks from backlog to production,",
+            "Can articulate the business goal of a set of features,",
+            "You develop methods to track progress towards desired outcomes at the team level.",
+            "Implement data gathering and tracking methods at the team / product level",
+            "Generate data outputs to indicate whether progress is being made towards desired outcomes ",
+            "Works on the most important task",
+            "You are able to identify patterns and trends and then interpret how it impacts user behavior. You are able to use data to drive proposed modifications.",
+            "You are an advocate for the user and can present arguments in support of their experience",
+            "You have a clear understanding of your user base, and use that understanding to help define and deliver your team's product.",
+            "Identifies the customer value being built",
+            "Understands the difference between real and ideal users"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Deliver (On Demand)",
+          "description": "DELIVER (ON DEMAND):Able to break down work into vertical slices and organize effort to deliver value as quickly and effectively as possible.",
+          "supportingBehaviors": [
+            "You identify metrics that help to drive outcomes, define success and move the team forward. You implement methods to measure outcomes at the company level.",
+            "Validate that work efforts are leading to the desired outcomes using data at the team or department level",
+            "Suggest alternative approaches to reach outcomes when current approaches are not succeeding",
+            "You help to lead and participate in user interviews",
+            "You understand the company’s users, and use that knowledge to shape what your team is doing, and how that impacts other teams and their value delivery potential.",
+            "Takes what a customer asks for, extracts and delivers what they need",
+            "Collaborates across teams to deliver customer value"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Learn",
+          "description": "LEARN:Able to conceive and run progressive iterations/experiments to refine solution and de-risk projects. Use data to drive decisions and, in the absence of data, identify opportunities to acquire more. Able to shorten feedback loops.",
+          "supportingBehaviors": [
+            "You identify metrics that help to drive outcomes, define success and move the company forward.",
+            "Validate that work efforts are leading to the desired outcomes using data at the company level",
+            "Drive alternative approaches to reach outcomes when current approaches are not succeeding",
+            "You are able to look across the industry / space to help the company identify customer needs and how our systems can bring value at scale and broader opportunities.",
+            "Evolves a solution to scale with customer rollout, growth and adoption",
+            "Identify opportunities in the market and translate those into actionable customer value"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Advocate",
+          "description": "ADVOCATE:Evangelize and promote customer centricity and value orientation. Promote throughout organization.",
+          "supportingBehaviors": [
+            "You actively listen to customer needs"               ,
+            "You effectively communicate updates"                 ,
+            "You look to advocate for the customer when necessary"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strategy and Scope",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Today",
+          "description": "Focused on immediate work and objectives.",
+          "supportingBehaviors": [
+            "Able to break stories/issues into tasks and manage their execution on a day to day basis. ",
+            "You display some understanding of how your work relates to product goals, and how those goals relate to company goals.",
+            "You can describe the goals of your product and how your team is measuring success",
+            "You can describe the goals of the company"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Increment",
+          "description": "INCREMENT :Able to plan for work that spans a full increment.",
+          "supportingBehaviors": [
+            "Breaks down Rock proposals into discrete tasks,",
+            "Moves blockers to enable more junior engineers to work,Breaks down Boulder proposals into discrete tasks,",
+            "You help define how your work advances your product goals. ",
+            "You can describe the goals of your product and how your team is measuring success to other teams",
+            "You scope your work to meet the product goals while avoiding scope creep",
+            "You raise awareness when efforts are out of alignment with product goals"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Cycle",
+          "description": "CYCLE :Able to frame work and form plans based on cycle length objectives. This may include breaking one large project into progressive increments and/or balancing multiple smaller projects.",
+          "supportingBehaviors": [
+            "Breaks down Boulders into manageable projects..",
+            "Shapes the medium to long term priorities of their team",
+            "Regularly collaborates with team members from other disciplines to deliver features,",
+            "You help define product goals across multiple products, and lead others in determining how to meet them.",
+            "Help the team scope work to meet the product goals while avoiding scope creep",
+            "Help the team to realign work when efforts are out of alignment with product goals",
+            "You can represent product goals and success measures at the company level"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Quarter(S)",
+          "description": "QUARTER(S):Able to drive large and complex projects that may take up to a quarter or more to realize the expected value. This involves conceptualization of a complex system, understanding of business, ability to decompose work into iterations that progressively reduce risk, and coordination across multiple implementation teams.",
+          "supportingBehaviors": [
+            "Breaks down Mountain proposals into objectives that can be tackled in a quarter or less. ",
+            "You are actively involved in discussions which determine the high level project initiatives, or strategies taken to meet company goals.",
+            "Help the department and company shape work to meet strategic goals ",
+            "Help the department to realign work when efforts are out of alignment with strategic goals",
+            "You champion strategic goals and success measures at the company level"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Year(S)",
+          "description": "YEAR(S):Able to develop and execute multi-year initiatives.",
+          "supportingBehaviors": [
+            "Able to decompose large objectives and/or goals into actionable themes and initiatives",
+            "You participate in comprate strategic discussion and setting of business objectives."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Systems and Design",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Implements",
+          "description": "Implement plans and designs created by others.",
+          "supportingBehaviors": [
+            "Able to follow a design created by teh team or another individual",
+            "Maintains the security of the systems they work on,",
+            "You seek to understand and contribute to system health ",
+            "Displays understanding of what code smell is and actively works to avoid introducing it.",
+            "Understand what technical debt is",
+            "You understand the monitoring and alerting systems that are in place for your product(s).",
+            "Receives alerts about system health",
+            "Understands the value of including automated monitoring and alerts",
+            "Uses monitoring (but doesn't necessarily implement monitoring),",
+            "Occasionally uses monitoring tools to explain technical behaviour,",
+            "You contribute to the design and solution of an interaction. ",
+            "Using established patterns and guides to create an intuitive interaction. ",
+            "Understands the goal of the user and can articulate how an interaction helps to achieve that goal",
+            "You contribute to the design and solution of a piece of work. You are able to describe your teams' ecosystem and internal dependencies.",
+            "Follows existing architecture and design patterns the team utilizes",
+            "Executes at the module/story level",
+            "You are building your understanding of the underlying concepts and implementation details. ",
+            "Delivers working code",
+            "Refactoring code"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Enhance",
+          "description": "ENHANCE:Can identify opportunities for improvement in existing products.",
+          "supportingBehaviors": [
+            "Scout Rule",
+            "Where appropriate, builds on other teams' solutions to solve problems,",
+            "Takes a stakeholder problem, investigates to understand it and proposes a solution",
+            "Makes pragmatic decisions about technical trade-offs within their project,",
+            "Builds and works with systems involving multiple, independent technical parts,",
+            "You identify areas of improvement in the system in your day to day work. ",
+            "Boy Scout Method / Leave the code better than how you found it. ",
+            "Knows when to make changes during a piece of work versus creating a new backlog item.",
+            "You are able to create alerts for the key areas of your product.",
+            "Understand the key components of the product that require monitoring",
+            "Create alerts in the environment",
+            "Identiifes opportunities wher monitoring and obsevability would help",
+            "You are able to create intuitive interactions at the feature or story level that complement other product interactions, engaging users and helping them make progress. ",
+            "You document the users product interactions through practices like workflows and user flow diagrams. ",
+            "Contributing to the company's interaction patterns guide",
+            "You lead conversations around design and solutions at the application / epic level. Understands the touch points (of other teams) for your current products.",
+            "Able to implement solutions with little to no guidance",
+            "Chooses the right tools/technologies to accomplish the goal ",
+            "You are able to provide value to technical discussions by participating and offering alternative solutions. ",
+            "Evaluates code against acceptance criteria",
+            "Identify pros and cons of each solution"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Design",
+          "description": "DESIGN:Able to design significant new additions to the product.",
+          "supportingBehaviors": [
+            "Translates difficult business requirements into technical designs",
+            "Considers the technical direction of their group or the wider department when coming up with technical solutions,",
+            "Chooses the appropriate tool, technology or software for a task,",
+            "Identifies security concerns and solutions",
+            "You routinely evaluate the health data of the application and look for areas of improvement. You understand when it is beneficial to introduce technical debt in order to show early value. ",
+            "Monitors system metrics ",
+            "Takes initiative to resolve potential unhealthy systems",
+            "You are able to decide which systems need to be monitored and recommend / implement alerting strategies for your team. ",
+            "Usage based alerting with self-healing",
+            "Synthetic monitoring",
+            "You are able to create intuitive interactions that complement the interactions of another product engaging users and helping them make progress across multiple products. ",
+            "You document the users interactions / experience across multiple teams and products, and produce workflows that include transitions and multiple paths / users. ",
+            "Provides guidance on interaction patterns and components to other teams",
+            "You architect solutions and designs for application level products from the ground up. Is able to operate within the entire ecosystem and know where everything lives.",
+            "Provides the front end, backend and data store architecture for the client",
+            "Understand the user’s journey and provide artifacts at the application scope",
+            "You are able to provide application level design collaboration and peer feedback.",
+            "Evaluates application design proposals",
+            "Able to identify the impact of the proposed design"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Own",
+          "description": "OWN:Established expert in one or more of the team’s systems. Deep knowledge of the tech, customer space, and business value provided.",
+          "supportingBehaviors": [
+            "Tackles complex cross-team technical problems by breaking them down into smaller bits and addressing them,",
+            "Understands the security attack vectors for their area of technology and mitigates against them,",
+            "You routinely evaluate the health data between multiple systems or teams.",
+            "Able to identify areas for improvement",
+            "Facilitates communication, planning, and action necessary between teams to solve/prevent issues.",
+            "You are able to look across systems and determine interdependent needs for monitoring. You are able to recommend / implement alerting strategies across teams. ",
+            "Understands the impact of self-healing on one system impacting other systems",
+            "Advises other teams on monitoring and alerting strategies",
+            "You are able to create intuitive experiences with larger impact (size/scale and time/longevity, higher stakes) such as multi product or team / company level. ",
+            "You use visual tools to document the users interaction / experience through company level product suites. ",
+            "Provides guidance on interaction patterns and components at the company level",
+            "You architect solutions with larger impact (size/scale and time/longevity, higher stakes) such as multi product or team / company level. ",
+            "Designs interoperability communications",
+            "Designs system services",
+            "You are able to design a complete system or sub-system that fits within the company's product suite. ",
+            "Designs a software system",
+            "Justify the ROI",
+            "Builds software or services considering resilience, performance and failure modes,"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Evolve",
+          "description": "EVOLVE:Able to envision the future state of complicated systems and develop a plan to incrementally achieve that vision.",
+          "supportingBehaviors": [""]
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Use",
+          "description": "Able to work as a professional with the team’s technology and tools, adhering to best practices and standards.",
+          "supportingBehaviors": [
+            "You display a good understanding of your users and how your work impacts them. ",
+            "Describe multiple use cases for your product",
+            "Identify how your product is being used, what problem it is meant to solv",
+            "e",
+            "Uses version control to manage development workflow,",
+            "Regularly and independently debugs and fixes bugs in their own code,",
+            "Is responsible for and maintains their computer and local development environment,",
+            "Uses version control to manage routine development workflow, and can work with support on uncommon workflows,",
+            "Uses code to make something reasonably straightforward, mostly independently,",
+            "Delivers high quality code and solutions,",
+            "Writes pull requests that are helpful both to the reviewer and those debugging the the code later,",
+            "Reuses existing code",
+            "Is able to explain why using CI/CD pipelines for automation is beneficial, and uses them for basic functions,",
+            "You participate in issue resolution",
+            "Fully understands the priority of the incident",
+            "Able to quickly ask for help as needed",
+            "Gets involved in fixing live incidents in production,",
+            "Shadows during live incidents or joins debugging mob sessions",
+            "Implements automated unit or end to end tests with help from a more senior engineer",
+            "Writes automated unit and end to end tests for featuresFollow Coding Standards"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Specialize",
+          "description": "SPECIALIZE:Begin to develop depth and specialize in areas of the team's technology.",
+          "supportingBehaviors": [
+            "You know about your competitors and what others in the market are doing. ",
+            "Identify the key differentiators of competitive products",
+            "Explain to others the key problems / opportunities in the space and what competitors are offering as solutions",
+            "Influences a community of practice,",
+            "Uses code to make something with some degree of complexity,",
+            "Checks whether code from well-known sources can be reused before writing new code, and generally identifies that kind of reuse when there is the opportunity,",
+            "Debugs and fixes complex bugs efficiently,",
+            "You are able to respond to the incident for your team and communicate status and resolution to the team and incident manager. ",
+            "Triage incidents",
+            "Handle on-call",
+            "Fixes or updates tests when changing existing code"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Evangelize",
+          "description": "EVANGELIZE:Understand the benefits of different technology and practices and can help others understand the tradeoffs. Advocate for usage of best practices and effective adoption of new technology.",
+          "supportingBehaviors": [
+            "You are helping others to understand current industry trends and where the market is going.",
+            "Identify the industry trends that are likely to surface in the near future (1-3 years)",
+            "Present key opportunities to the company in relation to the future industry trends",
+            "Leads a community of Practice",
+            "Communicates technical concepts clearly and adapts that communication to the audience,",
+            "Shows technical leadership,",
+            "Makes pragmatic decisions about technical trade-offs within their own code,",
+            "Evaluates third-party software to use in projects,",
+            "You are able to manage an incident or outage, deploying team members to respond and handling communication with stakeholders ",
+            "Incident manage team level outages",
+            "Provide timely communication to the stakeholders",
+            "Leads on fixing live incidents in production,"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Master",
+          "description": "MASTER::Extremely deep knowledge in one or more areas of the technology stack, including development and Engineering practices. Consistently seeking out additional knowledge and expanding your understanding.",
+          "supportingBehaviors": [
+            "You drive the company towards becoming an industry standard or authority.",
+            "Writing blog posts",
+            "Presenting at conferences",
+            "Has a deep understanding of, and helps others understand, a particular technology or product,",
+            "Communicates complex technical concepts clearly and adapts that communication to the audience,",
+            "You are able to identify and manage an incident or outage across multiple systems or teams. You deploy team members to respond and handle communication with stakeholders ",
+            "Incident manage cross team outage",
+            "Able to get the right resources to resolve the issue"
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Create",
+          "description": "CREATE:Able to create new patterns, practices, or technology. This goes beyond repurposing existing solutions or combinations of existing patterns. Contributions are novel and innovative and push the boundaries for the business.",
+          "supportingBehaviors": [
+            "You develop and identify novel and innovative approaches to resolving industry problems."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leadership",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Manage",
+          "description": "You mange the actions or one or more teams and are responsible for the performance and outputs of your team. ",
+          "supportingBehaviors": [
+            "You are generally familiar with your own communication preferences.",
+            "You go about your day communicating with others in the style that is most comfortable to you.",
+            "You may not be completely aware of how your pattern impacts your relatedness to the people that you interact with.",
+            "You’ve done some level of introspection on your personal brand… that is, how others perceive you.",
+            "You recognize your differentiating talents and skills",
+            "You take ownership for delivering results, applying your talents toward meeting commitments to others",
+            "You actively use resources and mentors to help keep your skills sharp.",
+            "You delegate simple tasks to others in accordance to your perception of their strengths",
+            "You delegate a specific implementation task to someone who has already demonstrated the skill to complete it.",
+            "You help the person complete tasks assigned to them by answering questions or addressing blockers",
+            "You help individuals achieve performance goals by supporting them in their own development and providing feedback to amplify or improve performance",
+            "You conduct regular 1-to-1s with others, listening to their concerns, encouraging positive behaviors providing them with performance improvement advice",
+            "You recognize others for their accomplishments.",
+            "You provide others with timely, situational feedback, describing their behavior and the consequences of that behavior.",
+            "You positively impact the behavior of the people who you work with, inspiring confidence in them to follow you.",
+            "You set an example for others, holding yourself accountable to the commitments you’ve made",
+            "You are able to appeal to the interest of others to help them understand the benefit of a specific behavior",
+            "You use your position of authority only as a last resort to influence the behavior of a direct report"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Lead",
+          "description": "You foster team growth and development through a focus on outcomes, nutruring individual growth, and adpating your leadership style to the unique needs of your teams.",
+          "supportingBehaviors": [
+            "You begin to see that there are categories of communication patterns. You are able to recognize traits of those patterns, not only in yourself, but others.",
+            "You adjust your communication style both verbally and written, to better relate to individual communication preferences.",
+            "You help others to recognize their own personal brand, helping them recognize their strengths.",
+            "When your team delivers, you selflessly attribute that success to them",
+            "When your team falls short, you take responsibility for that outcome",
+            "You delegate larger initiatives to individuals which allow them to stretch beyond their current skills",
+            "You delegate ownership of the coordinated implementation of a new product feature",
+            "You delegate tasks to a direct report which exceed their comfort level, providing them with guidance and feedback along the way",
+            "You coach your team to achieve the goals set out for them, providing them with collective feedback to amplify or improve performance",
+            "You set clear goals for your team, supporting them by clarifying outcomes and removing blockers as they work toward achieving those goals",
+            "You periodically retrospect with your team to identify wins and misses, coaching them toward coming up with ways to continuously improve",
+            "You impact the behavior of teams and individuals beyond your immediate team",
+            "Using what you know about the communication patterns of your internal stakeholders, you adjust your communication style when attempting to impact their behavior",
+            "You nurture a few “first followers” to help influence the behavior of even more followers",
+            "You selflessly put yourself and your ideas out there, knowing that you may be subject to criticism"
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Scale",
+          "description": "You scale leadership across an an organization, developing and deploying practices to ensure effective value delivery, growth, and employee engagement across multiple teams. ",
+          "supportingBehaviors": [
+            "You are able to help others recognize their own communication patterns and help them with relating to others",
+            "You conduct team exercises to help people understand each others’ communication preferences",
+            "You use those communication preferences to resolve conflicts between people",
+            "You shape the personal brand for your team and department and own up to their outcomes.",
+            "You balance the team’s workload between improving their working relationships and delivering on commitments",
+            "You mentor direct reports on how to build others trust and confidence in them",
+            "You provide opportunities for direct reports to take ownership of initiatives and see them through",
+            "You offer opportunities for direct reports to continue to polish and broaden their own skills",
+            "You delegate to others, who in turn must break down tasks even further and also delegate even further",
+            "You delegate the responsibilities of team deliverables and performance to a team manager",
+            "You delegate the responsibility of delivering new business value to a product manager who must in turn coordinate and delegate responsibilities with multiple teams",
+            "You coach others who in turn must coach others.",
+            "You provide guidance to managers with helping to coach the people that report to them, based on your own experience in that role.",
+            "You absorb feedback from senior leaders in the organization, disseminating that feedback in a way that allows others to maintain their self-esteem",
+            "You conduct skip-level 1-to-1s with individual contributors, providing them with an enhanced perspective on their impact to the organization",
+            "Your impact spans the organization across departmental boundaries and reporting hierarchies",
+            "You are able to use, not only understand the communication preferences of others, but also an understanding of their self-interests in relation to their role to influence their behavior",
+            "You nurture other people’s ability to influence by relinquishing the limelight, giving someone else the opportunity to lead."
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Align",
+          "description": "You influence the strategy and direction at a department level, ensuring the actions fo multipel teams are aligned in pursuit of big outcomes.",
+          "supportingBehaviors": [
+            "You are able to understand general communication patterns and preferences on a broader company-wide scale and apply this knowledge in your approach to getting others to work together effectively.",
+            "You use your understanding of communication preferences to improve cooperation between teams",
+            "You modify your communication style to address the concerns of external partners",
+            "You shape ’s compelling unique value proposition in the eyes of partners and customers",
+            "You make commitments to partners and customers and ensure the company sees them through",
+            "You help shape the aspect of the company’s focus are which differentiates it from its competitors",
+            "You set the vision for an outcome you look to achieve and then delegate to departments and teams to work cooperatively to execute on that vision.",
+            "You set specific company objectives, painting a futuristic picture of what the organization will have accomplished and empower teams to set a path toward that vision",
+            "You mentor and coach individuals and teams across the spectrum of the organization",
+            "You recognize individuals and teams across their organization for their contributions to help the company meet its objectives",
+            "You provide executive coaching to high achieving individuals",
+            "Your impact spans beyond the organization to external stakeholders including customers, and the larger Ed-Tech community",
+            "You communicate with partners, helping them understand or reinforcing their conviction to be on their journey with ",
+            "You speak at a meetup or conference session, conveying the image and unique qualities which provides to the community."
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "Vision",
+          "description": "You drive straegy, vision, and execution at the company level, leading a large team or department to solve open-ended problems. ",
+          "supportingBehaviors": [""]
+        }
+      ]
+    },
+    {
+      "name": "Skills Shape",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "- or T",
+          "description": "- or T",
+          "supportingBehaviors": [
+            "I Shaped or - Shaped. Depth of experience in a single area OR Broad but shallow experience with all areas of a domain"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "T",
+          "description": "T",
+          "supportingBehaviors": [
+            "T Shaped. Combines I and -, shallow breadth with depth in at least one area."
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "M",
+          "description": "M",
+          "supportingBehaviors": [
+            "M Shaped. Expands on T with multiple areas of expertise. Multiple M's (e.g. MM) indicates an expectation of more areas of depth."
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "E",
+          "description": "E",
+          "supportingBehaviors": [
+            "E Shaped. Experience, Expertise, Execution, Exploration. Individual who is able to do all 4 and apply a breadth of experience and skills to solve complex and ambiguous problems."
+          ]
+        },
+        {
+          "level": "Expert",
+          "keyword": "X",
+          "description": "X",
+          "supportingBehaviors": [
+            "X SHaped. Versatile individual with broad domain skills, project management, and a high level of EQ and people skills. Able to drive large initiatives and work across boundaries, through a combination of influence and authority. Knowledge will span outside the normal domain (e..g Engineers will need to know about more than engineering)."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "User Experience",
+      "levels": [
+        {
+          "level": "Novice",
+          "keyword": "Implements",
+          "description": "You design and implement delightful user experiences as part of larger product efforts. ",
+          "supportingBehaviors": [
+            "You are able to observe and understand user behaviors and their potential struggles. You participate in gathering data to make better design decisions.",
+            "You are able to participate in discussions with or about users and stakeholders.",
+            "Familiar with the users point of view",
+            "You contribute to the design and solution of an interaction. ",
+            "Use established patterns and guides to create an intuitive interaction. ",
+            "Understands the goal of the user and can articulate how an interaction helps to achieve that goal"
+          ]
+        },
+        {
+          "level": "Apprentice",
+          "keyword": "Designs",
+          "description": "You leverage user research to advocate for users and design expepriences for large projects. ",
+          "supportingBehaviors": [
+            "Uses user research or data to inform decisions,",
+            "You can present design research to team members and stakeholders",
+            "You are an advocate for the user and can present arguments in support of their experience",
+            "You are a driver for what user's needs and strive for consistency across your team's product(s)",
+            "Understands the difference between real and ideal users",
+            "You are able to create intuitive interactions at the feature or story level that complement other product interactions and support larger product capabilities. ",
+            "You document the users product interactions through practices like workflows and user flow diagrams. ",
+            "You contributing to the company's interaction patterns and style guide."
+          ]
+        },
+        {
+          "level": "Practitioner",
+          "keyword": "Innovate",
+          "description": "You drive user research efforts to identify opportunities for improving and extending the product experience. ",
+          "supportingBehaviors": [
+            "You help to lead research activities and identify data that is needed measure key interactions. You are able to develop research plans with clear objectives.",
+            "You help to drive and facilitate usability testing with users",
+            "You help to lead and participate in user interviews",
+            "You help the company strive for consistency across multiple products",
+            "You are able to design intuitive interactions for larger scale, complicated product capabilities with increasing levels of ambiguity. ",
+            "You document the users interactions / experience across multiple teams and products, and produce workflows that include transitions and multiple paths / users. ",
+            "Provides guidance on interaction patterns and components to other teams"
+          ]
+        },
+        {
+          "level": "Journeyman",
+          "keyword": "Scale",
+          "description": "You advocate for and deliver prctices and processes that enable design activities at scale. ",
+          "supportingBehaviors": [
+            "You lead user research efforts at all stages of the product life cycle and drive actionable design changes across the company. ",
+            "You lead and facilitate the development of a UX framework for the company",
+            "You organize planning and recruitment for user and product interviews.",
+            "You are able to design interfaces for rock or larger scale experiences with high ambiguity.",
+            "You use visual tools to document the users interaction / experience through company level product suites. ",
+            "Provides guidance on interaction patterns and components at the company level."
+          ]
+        }
+      ]
+    }
+  ]
+}
